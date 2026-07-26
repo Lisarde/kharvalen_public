@@ -13,7 +13,7 @@ new build.
 ```json
 {
   "latest": "0.6.170",
-  "min": "0.0.0",
+  "min": "0.6.170",
   "url": "https://discord.gg/du6PZekvnz",
   "notes": ""
 }
@@ -22,7 +22,7 @@ new build.
 | Field | Meaning |
 |---|---|
 | `latest` | Newest published build. A player on an older version gets a dismissible notice. |
-| `min` | Oldest build still allowed to play. A player below it gets a notice with **no** "continue" button. Keep it at `0.0.0` unless you really need to cut off old builds. |
+| `min` | Oldest build still allowed to play. A player below it gets a notice with **no** "continue" button, only download-or-quit. Raise it only when older builds are genuinely broken (save incompatibility, a crash) - a dismissible notice is the friendlier default. |
 | `url` | Where to download. Lives here — not baked into the game — so the Discord invite can change without shipping a new build. |
 | `notes` | Optional one-line changelog shown under the message. Leave empty to hide it. Not localized: whatever you write is shown as-is in every language. |
 
