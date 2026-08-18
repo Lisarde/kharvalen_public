@@ -1,6 +1,6 @@
 {
-  "latest": "0.8.0",
+  "latest": "0.8.2",
   "min": "0.8.0",
   "url": "https://discord.gg/du6PZekvnz",
-  "notes": "¡Nuevo modo PvP! Duelos 1v1 y 2v2 entre equipos, con clasificatoria ELO y ranking de Steam. Actualización obligatoria: las versiones anteriores no pueden jugar online con esta."
+  "notes": "Las misiones de Choque ahora también cuentan las Cargas eléctricas del Mago de Rayo, la rueda y el mando ya desplazan las listas del ranking, y el Mago deja de recibir recompensas de crítico (no las usa)."
 }
