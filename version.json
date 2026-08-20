@@ -1,6 +1,6 @@
 {
-  "latest": "0.8.2",
+  "latest": "0.8.3",
   "min": "0.8.0",
   "url": "https://discord.gg/du6PZekvnz",
-  "notes": "Las misiones de Choque ahora también cuentan las Cargas eléctricas del Mago de Rayo, la rueda y el mando ya desplazan las listas del ranking, y el Mago deja de recibir recompensas de crítico (no las usa)."
+  "notes": "Traducción completa: los textos que seguían saliendo en español al jugar en otros idiomas ya están en los 14 idiomas, la Forja de Mithril actualiza sus rótulos al cambiar de idioma y el jefe del Desierto estrena nombre: Nekhtar."
 }
