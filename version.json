@@ -1,6 +1,6 @@
 {
-  "latest": "0.8.3",
+  "latest": "0.8.4",
   "min": "0.8.0",
   "url": "https://discord.gg/du6PZekvnz",
-  "notes": "Traducción completa: los textos que seguían saliendo en español al jugar en otros idiomas ya están en los 14 idiomas, la Forja de Mithril actualiza sus rótulos al cambiar de idioma y el jefe del Desierto estrena nombre: Nekhtar."
+  "notes": "Las mezclas de elementos por fin compensan: si el enemigo arde, tus golpes de hielo pegan un 30% más aunque ya lo tengas congelado. El Reloj de Arena Rúnico alarga también el Torbellino brutal y la Sierra de guerra, el Bastión de piedra cuesta el doble de maná y ya no se puede cambiar de raza a mitad de partida."
 }
