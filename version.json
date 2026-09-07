@@ -1,6 +1,6 @@
 {
-  "latest": "0.9.0",
-  "min": "0.9.0",
+  "latest": "0.9.1",
+  "min": "0.9.1",
   "url": "https://discord.gg/zAV4TSayGd",
-  "notes": "Se activan las Mejoras Globales de la Forja de Mithril: las 20 mejoras permanentes para todas las razas ya se pueden comprar. Y estrenamos la wiki oficial en https://www.kharvalen.com con buscador, guías y todas las mecánicas del juego."
+  "notes": "v0.9.1: Bosque verde, Marisma y Desierto Corrupto van mucho más fluidos (los presets Bajo y Medio bajan de verdad el coste gráfico). La dificultad de cada fase es x1, x2 y x3, y los jefes de fase y minijefes llegan con mucha más vida. El portal se usa pulsando Interactuar, ya no se cruza al pisarlo. Omitir una subida de nivel devuelve la mitad de la experiencia y la carta desterrada se queda en gris en su sitio."
 }
