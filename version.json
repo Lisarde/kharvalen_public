@@ -1,6 +1,6 @@
 {
-  "latest": "0.9.1",
+  "latest": "0.9.2",
   "min": "0.9.1",
   "url": "https://discord.gg/zAV4TSayGd",
-  "notes": "v0.9.1: Bosque verde, Marisma y Desierto Corrupto van mucho más fluidos (los presets Bajo y Medio bajan de verdad el coste gráfico). La dificultad de cada fase es x1, x2 y x3, y los jefes de fase y minijefes llegan con mucha más vida. El portal se usa pulsando Interactuar, ya no se cruza al pisarlo. Omitir una subida de nivel devuelve la mitad de la experiencia y la carta desterrada se queda en gris en su sitio."
+  "notes": "v0.9.2: Al abrir el juego por primera vez eliges idioma y calidad gráfica en una pantalla previa, sin pasar por Ajustes. Con Cantidad o Carcaj especial, una de las flechas va siempre recta a donde apuntas y las demás salen a los lados."
 }
