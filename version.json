@@ -1,6 +1,6 @@
 {
-  "latest": "0.9.2",
-  "min": "0.9.1",
+  "latest": "0.9.4",
+  "min": "0.9.4",
   "url": "https://discord.gg/zAV4TSayGd",
-  "notes": "v0.9.2: Al abrir el juego por primera vez eliges idioma y calidad gráfica en una pantalla previa, sin pasar por Ajustes. Con Cantidad o Carcaj especial, una de las flechas va siempre recta a donde apuntas y las demás salen a los lados."
+  "notes": "v0.9.4: Récords por raza en el ranking (cada raza guarda su propio récord por mapa y modo). Jefes de fase y minijefes mucho más duros según la fase. El portal ya no se bloquea si matas al jefe antes del minuto 10. Esta versión no puede jugar en cooperativo con versiones anteriores."
 }
