@@ -1,6 +1,6 @@
 {
   "latest": "0.9.5",
-  "min": "0.9.4",
+  "min": "0.9.5",
   "url": "https://discord.gg/zAV4TSayGd",
-  "notes": "v0.9.5: Desde dificultad ×30 los enemigos nacen con cargas de escudo que absorben un golpe entero (verás «¡Bloqueado!») y los minijefes ganan armadura. La fase 3 dura 6 minutos (jefe al 5, portal al 6) y la Marisma 6 en las tres fases. Cada jefe de fase paga 25 de Mithril. Arreglados el cartel del portal en el Desierto Corrupto, el ranking que rechazaba puntuaciones altas, el boticario con los artefactos al máximo, la carta del herrero y la bola de fuego que no seguía el terreno. Compatible en cooperativo con la 0.9.4."
+  "notes": "v0.9.5: Desde dificultad ×30 los enemigos nacen con cargas de escudo que absorben un golpe entero (verás «¡Bloqueado!») y los minijefes ganan armadura; en cooperativo el cliente lo ve igual que el anfitrión. La fase 3 dura 6 minutos (jefe al 5, portal al 6) y la Marisma 6 en las tres fases. Cada jefe de fase paga 25 de Mithril. Arreglados el cartel del portal en el Desierto Corrupto, el ranking que rechazaba puntuaciones altas, el boticario con los artefactos al máximo, la carta del herrero y la bola de fuego que no seguía el terreno. Esta versión no puede jugar en cooperativo con versiones anteriores."
 }
