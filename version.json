@@ -1,6 +1,6 @@
 {
-  "latest": "0.9.5",
-  "min": "0.9.5",
+  "latest": "0.9.6",
+  "min": "0.9.6",
   "url": "https://discord.gg/zAV4TSayGd",
-  "notes": "v0.9.5: Desde dificultad ×30 los enemigos nacen con cargas de escudo que absorben un golpe entero (verás «¡Bloqueado!») y los minijefes ganan armadura; en cooperativo el cliente lo ve igual que el anfitrión. La fase 3 dura 6 minutos (jefe al 5, portal al 6) y la Marisma 6 en las tres fases. Cada jefe de fase paga 25 de Mithril. Arreglados el cartel del portal en el Desierto Corrupto, el ranking que rechazaba puntuaciones altas, el boticario con los artefactos al máximo, la carta del herrero y la bola de fuego que no seguía el terreno. Esta versión no puede jugar en cooperativo con versiones anteriores."
+  "notes": "v0.9.6: Las fases se acortan según avanzas — 10 minutos la primera, 8:30 la segunda y 6 la tercera —, y el jefe aparece siempre en el último tramo del reloj. El Desierto Corrupto pasa a 8:30 también en sus primeras fases, con el jefe al minuto 7. Los precios del mercader suben un 100 % por fase: lo que cuesta 25 en la fase 1 vale 50 en la 2 y 75 en la 3, repeticiones incluidas, así que comprar temprano rinde mucho más que guardar el oro. Además, la Fisura sísmica del Mago ya no hunde los FPS al encadenarla. Hay que actualizar: en cooperativo con una versión anterior cada jugador pagaría precios distintos."
 }
