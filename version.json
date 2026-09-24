@@ -1,6 +1,6 @@
 {
-  "latest": "0.9.6",
-  "min": "0.9.6",
+  "latest": "0.9.8",
+  "min": "0.9.8",
   "url": "https://discord.gg/zAV4TSayGd",
-  "notes": "v0.9.6: Las fases se acortan según avanzas — 10 minutos la primera, 8:30 la segunda y 6 la tercera —, y el jefe aparece siempre en el último tramo del reloj. El Desierto Corrupto pasa a 8:30 también en sus primeras fases, con el jefe al minuto 7. Los precios del mercader suben un 100 % por fase: lo que cuesta 25 en la fase 1 vale 50 en la 2 y 75 en la 3, repeticiones incluidas, así que comprar temprano rinde mucho más que guardar el oro. Además, la Fisura sísmica del Mago ya no hunde los FPS al encadenarla. Hay que actualizar: en cooperativo con una versión anterior cada jugador pagaría precios distintos."
+  "notes": "v0.9.8: Nuevo modo Mazmorras: una sola fase sin reloj en la que cumples objetivos, derrotas al jefe y sales por el portal, y tu récord es el tiempo que tardas. Lo estrena la Mazmorra Enana, el primer mapa interior y de varios pisos, con minimapa por pisos y un jefe nuevo, el Fantasma del Rey Enano. La Forja de Mithril pide ahora en todas las versiones un personaje con 2 ramas completas para poder jugar, y los botones bloqueados explican el motivo al pasar el ratón o seleccionarlos con el mando. Hay que actualizar: el cooperativo no funciona con versiones anteriores."
 }
