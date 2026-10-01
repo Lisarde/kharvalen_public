@@ -1,6 +1,6 @@
 {
-  "latest": "0.9.8",
-  "min": "0.9.8",
+  "latest": "0.9.13",
+  "min": "0.9.13",
   "url": "https://discord.gg/zAV4TSayGd",
-  "notes": "v0.9.8: Nuevo modo Mazmorras: una sola fase sin reloj en la que cumples objetivos, derrotas al jefe y sales por el portal, y tu récord es el tiempo que tardas. Lo estrena la Mazmorra Enana, el primer mapa interior y de varios pisos, con minimapa por pisos y un jefe nuevo, el Fantasma del Rey Enano. La Forja de Mithril pide ahora en todas las versiones un personaje con 2 ramas completas para poder jugar, y los botones bloqueados explican el motivo al pasar el ratón o seleccionarlos con el mando. Hay que actualizar: el cooperativo no funciona con versiones anteriores."
+  "notes": "v0.9.13: La Mazmorra Enana es más fácil (dificultad x1 / x1,5 / x2 / x2,5 por fase) y esconde nuevos cofres legendarios, un campamento al oeste custodiado por 3 minijefes con un cofre que siempre da un artefacto, y un mercader en la fase 4. La lava de las fases 3 y 4 ya no te tira al vacío: puedes cruzarla, pero quema. El protector de caídas solo actúa fuera del mapa, así que puedes subir a montañas y rocas. Azhakar ya no se queda atascado y es inmune mientras no puede alcanzarte. Arreglada la barra de vida que les faltaba a algunos minijefes. Hay que actualizar: el cooperativo no funciona con versiones anteriores."
 }
