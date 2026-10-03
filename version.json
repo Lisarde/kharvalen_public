@@ -1,6 +1,6 @@
 {
-  "latest": "0.9.13",
-  "min": "0.9.13",
+  "latest": "0.9.14",
+  "min": "0.9.14",
   "url": "https://discord.gg/zAV4TSayGd",
-  "notes": "v0.9.13: La Mazmorra Enana es más fácil (dificultad x1 / x1,5 / x2 / x2,5 por fase) y esconde nuevos cofres legendarios, un campamento al oeste custodiado por 3 minijefes con un cofre que siempre da un artefacto, y un mercader en la fase 4. La lava de las fases 3 y 4 ya no te tira al vacío: puedes cruzarla, pero quema. El protector de caídas solo actúa fuera del mapa, así que puedes subir a montañas y rocas. Azhakar ya no se queda atascado y es inmune mientras no puede alcanzarte. Arreglada la barra de vida que les faltaba a algunos minijefes. Hay que actualizar: el cooperativo no funciona con versiones anteriores."
+  "notes": "v0.9.14: El Golpe colosal deja un corte vertical que acompaña al espadón y suena al chocar con el suelo. El Torbellino brutal pierde el silbido y gana un juego de piernas nuevo. El Salto rompecráneos suena a salto de verdad y ya no saca el corte azul. Los Pernos explosivos suenan al disparar y al explotar. El círculo de la Lluvia de flechas ya mide lo mismo que la lluvia, es marrón (verde con Lluvia venenosa) y las flechas venenosas llevan un velo verde. Todos los indicadores de habilidades se adaptan al terreno. En cooperativo ves caer las flechas de tu compañero y sus indicadores siguen su cursor. Hay que actualizar: el cooperativo no funciona con versiones anteriores."
 }
