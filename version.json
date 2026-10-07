@@ -1,6 +1,6 @@
 {
-  "latest": "0.9.15",
-  "min": "0.9.14",
+  "latest": "0.9.16",
+  "min": "0.9.16",
   "url": "https://discord.gg/zAV4TSayGd",
-  "notes": "v0.9.15: Gran mejora de rendimiento: el Bosque verde en calidad Alta necesita menos de la mitad de tarjeta gráfica, todos los mapas van más ligeros, las hordas grandes son más fluidas y ya no hay tirones al ganar Mithril o completar misiones. En calidad Alta y Personalizada la oclusión ambiental va a media resolución y las sombras usan 3 cascadas. Corregidos varios fallos del cooperativo: la barra de experiencia al espectar, enemigos fantasma en la sala de revancha y los botones del espectador solapados. El cooperativo sigue funcionando con la v0.9.14."
+  "notes": "v0.9.16: Cinco artefactos nuevos: Lanza Cuchillos, Colmillos de la Tierra, Chakram del Eclipse, Prisma del Alba y Reloj Detenido, que detiene el tiempo 2 segundos (en cooperativo solo puede tenerlo un jugador y no sale en PvP). Las espadas de la Lluvia de cuchillas ahora hacen daño al tocar a los enemigos, los ecos de la Lámpara de las Ánimas se ven azulados y el Chakram repite todos sus chakrams. Los números con decimales siguen el idioma del juego. Las auras de estado en hordas grandes pesan mucho menos. El cooperativo necesita que todos tengan la v0.9.16."
 }
