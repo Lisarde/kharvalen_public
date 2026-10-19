@@ -1,6 +1,6 @@
 {
-  "latest": "0.9.16",
-  "min": "0.9.16",
+  "latest": "0.9.18",
+  "min": "0.9.18",
   "url": "https://discord.gg/zAV4TSayGd",
-  "notes": "v0.9.16: Cinco artefactos nuevos: Lanza Cuchillos, Colmillos de la Tierra, Chakram del Eclipse, Prisma del Alba y Reloj Detenido, que detiene el tiempo 2 segundos (en cooperativo solo puede tenerlo un jugador y no sale en PvP). Las espadas de la Lluvia de cuchillas ahora hacen daño al tocar a los enemigos, los ecos de la Lámpara de las Ánimas se ven azulados y el Chakram repite todos sus chakrams. Los números con decimales siguen el idioma del juego. Las auras de estado en hordas grandes pesan mucho menos. El cooperativo necesita que todos tengan la v0.9.16."
+  "notes": "v0.9.18: Cada fase empieza con una entrada cinematográfica: tu personaje sale de un portal flotante y cae al suelo mientras el mundo espera (se puede saltar con Esc o el botón Atrás del mando), también en cooperativo y JcJ. Por debajo del 30 % de vida los bordes de la pantalla laten en rojo (se puede desactivar en Feedback de combate). En cooperativo los jugadores aparecen más separados. Los efectos de suelo de varias habilidades vuelven a verse en la Mazmorra Enana. El cooperativo necesita que todos tengan la v0.9.18."
 }
